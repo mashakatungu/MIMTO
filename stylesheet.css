@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(31, 59, 196);
+    padding: 0px;
+}form{
+
+    margin: 20px;
+    background-color: rgb(15, 30, 244);
+    padding:100px;
+    border-radius: 50px;
+    height: 300px;
+    width: 200px;
+}
+.form input{
+    margin: 4px;
+    padding:6px;
+    width: 200px;
+    height: 25px;
+    border-radius: 40px;
+    background-color: azure;
+}
+body{
+    background-color: rgba(25, 23, 81, 0.797);
+    border-radius: 50px;
+    width: 250px;
+    height: 500px;
+
+}
